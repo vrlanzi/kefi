@@ -1,0 +1,172 @@
+.topo{
+	display: flex;
+	flex-wrap: wrap;
+	width: 1700px;
+	}
+#imagem img{
+    margin-left: 20px;}
+
+.input-group-mb-3{
+	height: 50px;
+	line-height: 130px;
+	margin-left: 50px;
+	margin-right: 150px;
+
+	}
+.form-control{
+    border-color:#FFD1CD;
+    border-width: 2px;
+    border-style: solid;
+    width: 1100px;
+    height: 30px;
+    transition: all 0.5s;
+    }
+.form-control:hover{
+     background: #FFD1CD;}
+
+.mais-icones{
+    line-height: 130px;
+    }
+ .mais-icones a{
+    margin-left: 15px;
+    margin-right: 60px;}
+#menu-topo{
+	display: block;
+	list-style-type: none;
+	padding: 0px;
+}
+
+
+#menu-topo li{
+	display: inline-block;
+	padding: 0px;
+}
+
+
+#menu-topo li a{
+	border-radius: 20px;
+	color: #696969;
+	display: block;
+	font-family: sans-serif;
+	height: 40px;
+	line-height: 40px;
+	margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 10px;
+	padding: 0px;
+	text-decoration: none;
+	text-align: center;
+	transition: all 0.5s;
+	width: 120px;
+}
+#menu-topo li a#pagina-inicial:hover{
+		background: #FFD1CD;
+		color: #696969;
+}
+#menu-topo li a#vestuario:hover{
+		background: #9DB6C2;
+		color: #FFFFFF;
+}
+#menu-topo li a#ecobags:hover{
+		background: #F26D4C;
+		color: #FFFFFF;
+}
+
+#menu-topo li a#decoração:hover{
+		background: #FFAE95;
+		color: #FFFFFF;
+}
+#menu-topo li a#papelaria:hover{
+		background: #006876;
+		color: #FFFFFF;
+}
+
+hr {
+width: 100%;
+height: 2px;
+margin-right: auto;
+margin-left: auto;
+margin-top: 2px;
+margin-bottom: 0px;
+border-width: 0px;
+
+}
+
+
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+footer{
+    background: #FFD1CD;
+    height: 350px;
+    display: flex;
+    flex-wrap: wrap;}
+
+.final-bloco1{
+    display: block;
+    margin-left: 40px;}
+#redes-sociais{
+    display: block;}
+#redes-sociais a{
+    text-decoration: none;
+    color: #696969;
+    }
+#redes-sociais img{
+    width: 35px;
+    margin-top: 10px;}
+
+.final-bloco2{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 80px;
+    margin-top: 20px;}
+#departamentos p{
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 2px;
+    text-decoration: none;}
+#departamentos li{
+    list-style-type: none;}
+
+#departamentos li a{
+    text-decoration: none;
+    color: #696969;
+    }
+#departamentos{
+    margin-left: 80px;
+    }
+.final-bloco3{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 80px;
+    margin-top: 20px;}
+
+#pagamento p{
+    font-weight: bold;
+    text-decoration: none;
+    display: flex;
+    flex-wrap: wrap;}
+#pagamento img{
+    margin: 0;}
+#duvidas{
+    margin-left: 80px;
+    margin-top: 20px;
+    width: 60px;}
+#duvidas p{ color: #696969;
+  text-decoration: none;}
+
+
+.texto-total{
+  width: 1000px;
+  margin-left: 450px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  text-align: justify;}
+
+
+h2{
+  text-align: center;
+  }

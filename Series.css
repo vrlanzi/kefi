@@ -1,0 +1,396 @@
+.topo{
+	display: flex;
+	flex-wrap: wrap;
+	width: 1700px;
+	}
+#imagem img{
+    margin-left: 20px;}
+
+.input-group-mb-3{
+	height: 50px;
+	line-height: 130px;
+	margin-left: 40px;
+	margin-right: 80px;
+
+	}
+.form-control{
+    border-color:#FFD1CD;
+    border-width: 2px;
+    border-style: solid;
+    width: 1100px;
+    height: 30px;
+    transition: all 0.5s;
+    }
+.form-control:hover{
+     background: #FFD1CD;}
+
+.mais-icones{
+    line-height: 130px;
+    }
+ .mais-icones a{
+    margin-left: 0px;
+    margin-right: 0px;}
+#menu-topo{
+	display: block;
+	list-style-type: none;
+	padding: 0px;
+}
+
+
+#menu-topo li{
+	display: inline-block;
+	padding: 0px;
+}
+
+
+#menu-topo li a{
+	border-radius: 20px;
+	color: #696969;
+	display: block;
+	font-family: sans-serif;
+	height: 40px;
+	line-height: 40px;
+	margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 10px;
+	padding: 0px;
+	text-decoration: none;
+	text-align: center;
+	transition: all 0.5s;
+	width: 120px;
+}
+#menu-topo li a#pagina-inicial:hover{
+		background: #FFD1CD;
+		color: #696969;
+}
+#menu-topo li a#vestuario:hover{
+		background: #9DB6C2;
+		color: #FFFFFF;
+}
+#menu-topo li a#ecobags:hover{
+		background: #F26D4C;
+		color: #FFFFFF;
+}
+
+#menu-topo li a#decoração:hover{
+		background: #FFAE95;
+		color: #FFFFFF;
+}
+#menu-topo li a#papelaria:hover{
+		background: #006876;
+		color: #FFFFFF;
+}
+
+hr {
+width: 100%;
+height: 2px;
+margin-right: 0;
+margin-left: 0;
+margin-top: 2px;
+margin-bottom: 0px;
+border-width: 0px;
+
+}
+
+
+
+
+.form-select{
+	display: inline-block;
+	margin-left: 20px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	width: 200px;
+	height: 40px;
+	color: #696969;}
+
+
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+ul{
+	margin: 0px;
+	padding: 0px;
+}
+
+ 
+h1{
+        text-align: center;
+        font-size: 80px;
+        font-family: epicursive script;
+}
+
+
+
+
+
+img{      
+           margin-left: 50px;
+           margin-right: 20px;
+
+}
+
+
+
+
+
+
+
+h2{
+	text-align: left;
+	margin-left: 20px;
+    	font-family: sans-serif;
+   	font-size: 30px;
+    	font-weight: light;
+    	height: 10px;  
+ 
+}
+
+
+
+p{
+                
+	 text-decoration: underline;
+         font-family: sans-serif;
+         display: inline;
+}
+
+
+
+h3{
+        margin-left: 20px;
+}
+
+
+#checkbox li{
+	list-style-type: none;
+        margin-left: 20px ;
+	margin-bottom: 10px;
+
+}
+
+
+#temas li{
+	list-style-type: none;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+
+div#menu-temas{
+	margin: 10px;
+	padding: 5px;
+	text-align: center;}
+
+.Filmes{
+	background: #F8E1E1  ;
+	border-radius: 4px;
+	color: #696969;
+	display: inline-block;
+	font-weight: bold;
+	height: 26px;
+	letter-spacing: -1px;
+	line-height: 26px;
+	padding: 4px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	width: 180px;
+	
+}
+.Livros{
+	background: #F8E1E1 ;
+	border-radius: 4px;
+	color: #696969;
+	display: inline-block;
+	font-weight: bold;
+	height: 26px;
+	letter-spacing: -1px;
+	line-height: 26px;
+	padding: 4px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	width: 180px;
+	
+}
+.Animes{
+	background: #F8E1E1 ;
+	border-radius: 4px;
+	color: #696969;
+	display: inline-block;
+	font-weight: bold;
+	height: 26px;
+	letter-spacing: -1px;
+	line-height: 26px;
+	padding: 4px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	width: 180px;
+	
+}
+.Arte{
+	background:#F8E1E1  ;
+	border-radius: 4px;
+	color: #696969;
+	display: inline-block;
+	font-weight: bold;
+	height: 26px;
+	letter-spacing: -1px;
+	line-height: 26px;
+	padding: 4px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	width: 180px;
+	
+}
+.Series{
+	background: #006876 ;
+	border-radius: 4px;
+	color: #F1F1F1;
+	display: inline-block;
+	font-weight: bold;
+	height: 26px;
+	letter-spacing: -1px;
+	line-height: 26px;
+	padding: 4px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	width: 180px;
+}
+
+
+
+
+#menu-temas li{
+	background:#F8E1E1 ;
+	margin-left: 20px;
+	display: inline-block;
+	}
+footer{
+    background: #FFD1CD;
+    height: 350px;
+    display: flex;
+    flex-wrap: wrap;}
+
+.final-bloco1{
+    display: block;
+    margin-left: 40px;}
+#redes-sociais{
+    display: block;}
+#redes-sociais a{
+    text-decoration: none;
+    color: #696969;
+    }
+#redes-sociais img{
+    width: 35px;
+    margin-top: 10px;}
+
+.final-bloco2{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 80px;
+    margin-top: 20px;}
+#departamentos p{
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 2px;
+    text-decoration: none;}
+#departamentos li{
+    list-style-type: none;}
+
+#departamentos li a{
+    text-decoration: none;
+    color: #696969;
+    }
+#departamentos{
+    margin-left: 80px;
+    }
+.final-bloco3{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 80px;
+    margin-top: 20px;}
+
+#pagamento p{
+    font-weight: bold;
+    text-decoration: none;
+    display: flex;
+    flex-wrap: wrap;}
+#pagamento img{
+    margin: 0;}
+#duvidas{
+    margin-left: 80px;
+    margin-top: 20px;
+    width: 60px;}
+#duvidas p{ color: #696969;
+  text-decoration: none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+form{
+	margin-left: 40px;
+	}
+
+
+
+
+.galeria{
+	display: flex;
+	flex-wrap: wrap;
+	}
+.produtos-camisetas{
+	width: 200px;
+	height: 340px;
+	text-align: center;
+	flex: 200px;
+	flex-grow: 0;
+	margin: 80px;
+	margin-bottom: 10px;
+
+}
+.img-produtos img{
+	text-align: center;
+	height:280px;
+	width: 200px;
+	margin: 0px;}
+
+.detalhes-produto a{
+	text-decoration: none;
+	color: black;
+
+}
+.preço-produto {
+	text-decoration: none;}
+.preço-produto a{
+	color: #006876 ;
+	font-weight: bold;}
+.nome{
+	text-decoration: none;}
+
+
+.filtro{
+	text-align: left;
+	margin-right: -20px;}	
+.flex{
+	display: flex;}
+.formulario{
+	width: 650px;}
